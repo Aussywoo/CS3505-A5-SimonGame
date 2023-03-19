@@ -1,6 +1,13 @@
+/*CS3505 Assignment 5
+ * Austin Li & Lucas Zagal
+ * 3/19
+ *
+ * Source file for the "View" part of the game that implements all the UI and connects to the model
+ *
+*/
+
 #include "mainwindow.h"
 #include "ui_mainwindow.h"
-#include <iostream>
 #include <QTimer>
 #include "simonmodel.h"
 

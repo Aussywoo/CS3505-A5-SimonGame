@@ -1,3 +1,11 @@
+/*CS3505 Assignment 5
+ * Austin Li & Lucas Zagal
+ * 3/19
+ *
+ * Header file for the "Model" part of the game
+ *
+*/
+
 #ifndef SIMONMODEL_H
 #define SIMONMODEL_H
 

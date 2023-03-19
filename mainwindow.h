@@ -1,3 +1,11 @@
+/*CS3505 Assignment 5
+ * Austin Li & Lucas Zagal
+ * 3/19
+ *
+ * Header file for the "View" part of the game
+ *
+*/
+
 #ifndef MAINWINDOW_H
 #define MAINWINDOW_H
 

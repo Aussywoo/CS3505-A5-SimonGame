@@ -1,6 +1,13 @@
+/*CS3505 Assignment 5
+ * Austin Li & Lucas Zagal
+ * 3/19
+ *
+ * Source file for the "Model" part of the game that implements all the game logic and emits signals to the view
+ *
+*/
+
 #include "simonmodel.h"
 #include <QTimer>
-#include <iostream>
 /**
  * @brief SimonModel::SimonModel The constructor fo the SimonModel object
  */
